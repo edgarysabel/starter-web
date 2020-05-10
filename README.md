@@ -14,3 +14,6 @@ Sample website with plenty of files for demoss
 Sample website with plenty of files for demoss
 
 ## How To Contribute
+
+##Copyright
+Git.EdgarYsabelSS

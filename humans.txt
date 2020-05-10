@@ -10,6 +10,6 @@ Adding some text
 
 	Thanks everyone
 # TECHNOLOGY COLOPHON
-
+	Git, Java
     HTML5, CSS3
     jQuery, Modernizr

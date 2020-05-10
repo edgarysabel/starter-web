@@ -18,4 +18,4 @@ Sample website with plenty of files for demoss
 Please add some chicks
 
 ##Copyright
-Git.EdgarYsabelSS
+Al right reserved

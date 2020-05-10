@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub works. Adding a line.
+This repository is for showing how Git and GitHub works. Adding a line, then more changes are being added.
 
 ## Purpose
 
